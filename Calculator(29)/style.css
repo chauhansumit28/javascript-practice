@@ -1,0 +1,75 @@
+.main{
+    border: 1px solid black;
+    width: 410px;
+    height: 440px;
+    background-color: azure;
+    
+    
+}
+.god{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+
+}
+input{
+    width: 390px;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 6px;
+    border-radius: 10px;
+    
+}
+.row1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px
+}
+.row2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.row3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.row4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px
+}
+.row5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+button{
+    height: 50px;
+    width: 60px;
+    border-radius: 10px;
+}
+.color{
+    color: orange;
+    font-weight: bold;
+    
+}
+#col{
+    background-color: orange;
+    color: white;
+}
+.sub{
+    font-weight: bold;
+}
